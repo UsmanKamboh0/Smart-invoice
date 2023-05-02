@@ -15,8 +15,8 @@ function AboutScreen() {
             />
             <div>
               <a
-                href="https://usmanbabar-porfolio.netlify.app/"
-                target={"_blank"}
+href="https://usmanb.netlify.app/"
+    target={"_blank"}
                 className="underline cursor-pointer"
                 rel="noreferrer"
               >
